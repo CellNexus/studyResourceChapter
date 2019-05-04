@@ -1,0 +1,4 @@
+
+baseurl: '/studyResourceChapter'
+include: ['_pages']
+excerpt_separator: <!--more-->
